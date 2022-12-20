@@ -1,17 +1,17 @@
 using System;
 using System.Text;
+using System.IO;
+using System.Diagnostics;
 
 namespace wow
 {
-
-    class STA
+    class Program
     {
 
-        static void Main (string[] args) 
+        public static void Main (string[] args) 
         {
             
         }
 
     }
-    
 }
