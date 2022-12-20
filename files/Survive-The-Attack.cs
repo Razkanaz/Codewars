@@ -25,7 +25,7 @@ namespace Program
                 }
                 catch (System.Exception)
                 {
-                    
+                    temp[i] = WhichIsLonger ? "Defenders":"Attackers";
                 }
             }
 
@@ -34,7 +34,7 @@ namespace Program
 
         static void Main(string[] args)
         {
-            string[] h = HasSurvived(new[] {3,2,1}, new[] {1,2,3});
+            string[] h = HasSurvived(new[] {3,2,1}, new[] {1,2,3,0});
 
             foreach (string item in h)
             {
