@@ -1,0 +1,15 @@
+C:\Users\aznee\Documents\Real_documents\coding\Github\Codewars\files\Shortest-Word\bin\Debug\net7.0\Shortest-word.exe
+C:\Users\aznee\Documents\Real_documents\coding\Github\Codewars\files\Shortest-Word\bin\Debug\net7.0\Shortest-word.deps.json
+C:\Users\aznee\Documents\Real_documents\coding\Github\Codewars\files\Shortest-Word\bin\Debug\net7.0\Shortest-word.runtimeconfig.json
+C:\Users\aznee\Documents\Real_documents\coding\Github\Codewars\files\Shortest-Word\bin\Debug\net7.0\Shortest-word.dll
+C:\Users\aznee\Documents\Real_documents\coding\Github\Codewars\files\Shortest-Word\bin\Debug\net7.0\Shortest-word.pdb
+C:\Users\aznee\Documents\Real_documents\coding\Github\Codewars\files\Shortest-Word\obj\Debug\net7.0\Shortest-word.csproj.AssemblyReference.cache
+C:\Users\aznee\Documents\Real_documents\coding\Github\Codewars\files\Shortest-Word\obj\Debug\net7.0\Shortest-word.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aznee\Documents\Real_documents\coding\Github\Codewars\files\Shortest-Word\obj\Debug\net7.0\Shortest-word.AssemblyInfoInputs.cache
+C:\Users\aznee\Documents\Real_documents\coding\Github\Codewars\files\Shortest-Word\obj\Debug\net7.0\Shortest-word.AssemblyInfo.cs
+C:\Users\aznee\Documents\Real_documents\coding\Github\Codewars\files\Shortest-Word\obj\Debug\net7.0\Shortest-word.csproj.CoreCompileInputs.cache
+C:\Users\aznee\Documents\Real_documents\coding\Github\Codewars\files\Shortest-Word\obj\Debug\net7.0\Shortest-word.dll
+C:\Users\aznee\Documents\Real_documents\coding\Github\Codewars\files\Shortest-Word\obj\Debug\net7.0\refint\Shortest-word.dll
+C:\Users\aznee\Documents\Real_documents\coding\Github\Codewars\files\Shortest-Word\obj\Debug\net7.0\Shortest-word.pdb
+C:\Users\aznee\Documents\Real_documents\coding\Github\Codewars\files\Shortest-Word\obj\Debug\net7.0\Shortest-word.genruntimeconfig.cache
+C:\Users\aznee\Documents\Real_documents\coding\Github\Codewars\files\Shortest-Word\obj\Debug\net7.0\ref\Shortest-word.dll

@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\files"
+    "\\files",
+    "\\files\\Shortest-Word",
+    "\\files\\Survive-The-Attack"
   ],
   "SelectedNode": "\\Codewars.sln",
   "PreviewInSolutionExplorer": false

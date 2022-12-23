@@ -3,6 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "files", "files", "{C92C1876-1BC7-4F9B-AC2B-E11A9B335D34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shortest-word", "files\shortest-word\Shortest-word.csproj", "{1A68281F-F962-4047-9209-4DD6B7BDBE7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "survive-the-attack", "files\survive-the-attack\survive-the-attack.csproj", "{20AE3175-924D-4E06-9241-84D91C6004E4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -10,5 +16,19 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A68281F-F962-4047-9209-4DD6B7BDBE7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A68281F-F962-4047-9209-4DD6B7BDBE7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A68281F-F962-4047-9209-4DD6B7BDBE7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A68281F-F962-4047-9209-4DD6B7BDBE7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20AE3175-924D-4E06-9241-84D91C6004E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20AE3175-924D-4E06-9241-84D91C6004E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20AE3175-924D-4E06-9241-84D91C6004E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20AE3175-924D-4E06-9241-84D91C6004E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1A68281F-F962-4047-9209-4DD6B7BDBE7C} = {C92C1876-1BC7-4F9B-AC2B-E11A9B335D34}
+		{20AE3175-924D-4E06-9241-84D91C6004E4} = {C92C1876-1BC7-4F9B-AC2B-E11A9B335D34}
 	EndGlobalSection
 EndGlobal
