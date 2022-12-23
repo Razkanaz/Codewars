@@ -25,10 +25,7 @@ namespace Shortestword
 
         static void Main (string[] args) {
             string h = "this is a test";
-
-            FindShort(h);
-
-            Console.WriteLine();
+            Console.WriteLine(FindShort(h));
         }
     }
 
